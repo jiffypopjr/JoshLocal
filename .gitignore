@@ -54,7 +54,7 @@ build/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
-packages/*
+packages/
 *_i.c
 *_p.c
 *.ilk
@@ -214,3 +214,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+/Services/Sample.Processor/Sample.Processor/bin
+/Services/Sample.Processor/Sample.Processor/obj
+
+/Web/Sample.Web\Sample.Web/bin
+/Web/Sample.Web\Sample.Web/obj
+
+/Web/Sample.Web/Sample.Web.Tests/bin
+/Web/Sample.Web/Sample.Web.Tests/obj
+
+/Web/Sample.Web/TestResults
