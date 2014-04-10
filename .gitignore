@@ -224,4 +224,7 @@ pip-log.txt
 /Web/Sample.Web/Sample.Web.Tests/bin
 /Web/Sample.Web/Sample.Web.Tests/obj
 
+/Services/Sample.Processor/Sample.Processor.Tests/bin
+/Services/Sample.Processor/Sample.Processor.Tests/obj
+
 /Web/Sample.Web/TestResults
